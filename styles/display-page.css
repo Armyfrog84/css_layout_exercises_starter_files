@@ -1,0 +1,52 @@
+
+.top_divs {
+	font-size: 0;
+	width: 800px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.bot_divs {
+	font-size: 0;
+	width: 800px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.inline_top{
+	width: 50%;
+	height: 200px;
+	display: inline-block;
+	text-align: center;
+}
+
+.inline_bot{
+	width: 33.33%;
+	height: 300px;
+	display: inline-block;
+
+}
+
+.green{
+	background-color:  #3d7900;
+}
+
+.blue{
+	background-color: #0048fb;
+}
+
+.grey{
+	background-color: #808080;
+}
+
+.black{
+	background-color: #000;
+}
+
+.yellow{
+	background-color: #f3a633;
+}
+
+.border_black{
+	border: 1px solid #000;
+}
