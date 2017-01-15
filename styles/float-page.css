@@ -10,3 +10,24 @@ main {
   margin-left: auto;
   margin-right: auto;
 }
+
+.float-left{
+	float: left;
+
+}
+
+.float-right{
+	float: right;
+}
+
+.float-clear{
+	clear: both;	
+}
+
+.margin-left-10px{
+	margin-left: 10px;
+}
+
+.margin-right-10px{
+	margin-right: 10px;
+}
